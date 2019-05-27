@@ -1,3 +1,3 @@
 # Cloud_Motion_Vector_Sensor_System
 
-This repository contains the MATLAB scripts used to get the cloud motion vector. There more functions used for test and verifications to be added... maybe.
+This repository contains the MATLAB scripts used to get the cloud motion vector. There are more functions used for testing, data wrangling, and verfication of results. To be added... maybe.
